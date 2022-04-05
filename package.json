@@ -1,0 +1,27 @@
+{
+  "name": "chatbot-ws-test",
+  "version": "1.0.0",
+  "description": "testing service for ws connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lackmannicholas/chatbot-ws-test.git"
+  },
+  "keywords": [
+    "ws",
+    "test"
+  ],
+  "author": "Nick Lackman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lackmannicholas/chatbot-ws-test/issues"
+  },
+  "homepage": "https://github.com/lackmannicholas/chatbot-ws-test#readme",
+  "dependencies": {
+    "ws": "^8.5.0"
+  }
+}
